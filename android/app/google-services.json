@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "162444479571",
+    "project_id": "techbloginterview",
+    "storage_bucket": "techbloginterview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162444479571:android:501b42c14f41ad8188caa6",
+        "android_client_info": {
+          "package_name": "com.interview.techblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162444479571-k5r5fur0hd831boqqvvaar4r2hji8d15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.interview.techblog",
+            "certificate_hash": "ccac00b6ea85a0e2082bf46d3c451d56e3310fda"
+          }
+        },
+        {
+          "client_id": "162444479571-edipegh70qvdjdr38ktf8ohftgtiu27s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ZJL5TIuyO1VxGDdFg1Z3aGbO7yNLZdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162444479571-edipegh70qvdjdr38ktf8ohftgtiu27s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
